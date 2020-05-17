@@ -1,13 +1,13 @@
-# P5.js Projects
-Demos of my p5.js projects
+# `P5.js Projects`
+##### Demos of my p5.js projects
 ```
-by wisemonkey
+by oran collins
+github.com/wisehackermonkey
 oranbusiness@gmail.com
 20180329
-github.com/wisehackermonkey
 ```
 
 ## Live project demo webpage
+# [click here](https://wisehackermonkey.github.io/projects)
 
-[click here](https://wisehackermonkey.github.io/projects)
 
